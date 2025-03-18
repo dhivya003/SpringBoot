@@ -1,8 +1,8 @@
 package com.ecom.Customer.Order.service;
 
-import com.ecom.customerorder.exception.ResourceNotFoundException;
-import com.ecom.customerorder.model.Order;
-import com.ecom.customerorder.repository.OrderRepository;
+import com.ecom.Customer.Order.exception.ResourceNotFoundException;
+import com.ecom.Customer.Order.model.Order;
+import com.ecom.Customer.Order.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
