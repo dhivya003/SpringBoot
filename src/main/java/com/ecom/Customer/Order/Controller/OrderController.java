@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 
-@Tag(name = "Customer API", description = "Operations related to customers")
+@Tag(name = "Order API", description = "Operations related to orders")
 @RequestMapping("/orders")
 public class OrderController {
     @Autowired
